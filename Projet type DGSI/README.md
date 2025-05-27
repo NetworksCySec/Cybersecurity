@@ -99,3 +99,5 @@ Le projet consiste à concevoir une **infrastructure informatique performante, �
 - **Safa** – DevOps & automatisation de déploiement  
 
 ---
+<!-- Hashtags pour référencement -->
+#Cybersecurity #InfrastructureSecurity #ActiveDirectory #Vault #Hardening #SIEM #Wazuh #Zabbix #Resilience #PRA #CI_CD #Firewall #ThreatDetection
