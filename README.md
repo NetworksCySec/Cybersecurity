@@ -11,9 +11,9 @@ Chaque projet documente une approche spécifique : construction d’environnemen
 
 | 📌 Projet | 🧩 Domaine | 🧰 Thématiques abordées |
 |----------|------------|-------------------------|
-| [🔐 ConnectHub](./connecthub-secured) | Développement sécurisé | Authentification MFA, segmentation des accès, durcissement, livraison chiffrée |
-| [🛡️ DGSI-like - Infra sécurisée](./infra-dgsi-secure) | Architecture SI | Active Directory, haute dispo, segmentation, Vault, GitLab CI/CD, Wazuh, OpenVAS |
-| [🕵️‍♂️ Intrusion physique RedTeam](./intrusion-physique-redteam) | RedTeam / Pentest physique | Lockpicking, RFID, reconnaissance, règles d’engagement, exfiltration, camouflage |
+| 🔐 ConnectHub | Développement sécurisé | Authentification MFA, segmentation des accès, durcissement, livraison chiffrée |
+| 🛡️ DGSI-like - Infra sécurisée | Architecture SI | Active Directory, haute dispo, segmentation, Vault, GitLab CI/CD, Wazuh, OpenVAS |
+| 🕵️‍♂️ Intrusion physique RedTeam | RedTeam / Pentest physique | Lockpicking, RFID, reconnaissance, règles d’engagement, exfiltration, camouflage |
 
 ---
 
