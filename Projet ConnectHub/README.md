@@ -91,6 +91,5 @@ L’ensemble du développement a été accompagné d’une démarche sécurité 
 - Le projet aurait pu bénéficier d’un **chiffrement PGP complet**, mais a été adapté à la réalité du contexte de livraison.
 
 ---
-
 <!-- Hashtags pour référencement -->
 #Cybersecurity #DevSecOps #SecureDevelopment #Authentication #AccessControl #Lockdown #OWASP #MFA #Encryption #DeliverySecurity
