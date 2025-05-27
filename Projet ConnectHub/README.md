@@ -76,7 +76,7 @@ L’ensemble du développement a été accompagné d’une démarche sécurité 
 
 ## 👥 Équipe technique (2PLTS)
 
-- **Kilian PETIT** – Forensique & réponse à incident  
+- **Kilian PETIT** – Exper Cyber & réponse à incident  
 - **Gaëtan DE SOUZA** – Pentest & sécurité applicative  
 - **Étienne PAPA** – Gouvernance et architecture sécurité  
 - **Safa TAIBI** – DevOps, CI/CD & automatisation  
