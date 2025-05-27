@@ -49,3 +49,5 @@ Chaque dossier contient en général :
 - Éventuellement des `rapports/` complets ou synthétiques
 
 ---
+<!-- Hashtags pour référencement -->
+#Cybersecurity #InformationSecurity #OffensiveSecurity #DefensiveSecurity #RedTeam #SIEM #DevSecOps #InfrastructureSecurity
