@@ -92,7 +92,7 @@ Le projet consiste à concevoir une **infrastructure informatique performante, �
 
 ## 🧑‍💻 Équipe projet – 2PLTS
 
-- **Kilian PETIT** – Expert Cyber & Hardening
+- **Kilian** – Expert Cyber & Hardening
 - **Corentin** – Expert virtualisation & infrastructure système  
 - **Étienne** – Expert sécurité réseau & architecture  
 - **Gaëtan** – Analyste sécurité réseau & firewall  
