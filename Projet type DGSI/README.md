@@ -100,4 +100,4 @@ Le projet consiste à concevoir une **infrastructure informatique performante, �
 
 ---
 <!-- Hashtags pour référencement -->
-#Cybersecurity #InfrastructureSecurity #ActiveDirectory #Vault #Hardening #SIEM #Wazuh #Zabbix #Resilience #PRA #CI_CD #Firewall #ThreatDetection
+#Cybersecurity #InfrastructureSecurity #ActiveDirectory #Vault #Hardening #SIEM #Resilience #PRA #CI_CD #Firewall #ThreatDetection
