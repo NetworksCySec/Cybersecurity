@@ -94,3 +94,5 @@ L’opération est réalisée par une équipe spécialisée, avec des rôles pr�
 Chaque rôle est attribué selon les compétences individuelles, et la coordination en temps réel est essentielle.
 
 ---
+<!-- Hashtags pour référencement -->
+#Cybersecurity #RedTeam #PhysicalSecurity #SocialEngineering #Lockpicking #RFID #IntrusionTesting #Reconnaissance #TacticalOps
